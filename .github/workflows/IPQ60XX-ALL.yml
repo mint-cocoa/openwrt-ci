@@ -15,7 +15,7 @@ env:
   UPLOAD_BIN_DIR: false
   FIRMWARE_RELEASE: true
   FIRMWARE_TAG: IPQ60XX-ALL
-  TZ: Asia/Shanghai
+  TZ: Asia/Seoul
 
 jobs:
   Build:
